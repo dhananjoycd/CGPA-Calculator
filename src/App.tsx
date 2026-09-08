@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import { Plus, Trash2, GraduationCap, Calculator, Award, ArrowDown, Heart, Download, CheckCircle2, Info } from "lucide-react";
+import { Plus, Trash2, GraduationCap, Calculator, Award, ArrowDown, Heart, Download, Info } from "lucide-react";
 import { jsPDF } from "jspdf";
 import autoTable from "jspdf-autotable";
 import { motion, AnimatePresence } from "framer-motion";
